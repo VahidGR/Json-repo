@@ -5,14 +5,14 @@
       "title": "Xiaomi MI Band 3",
       "price": "40",
       "price_with_off": "36",
-      "images": {
-        [
-          "thumbnail_path": "https://s23655.pcdn.co/wp-content/uploads/2018/08/Mi-Band-3.png",
-        ],
-        [
-          "thumbnail_path": "https://s23655.pcdn.co/wp-content/uploads/2018/08/Mi-Band-3.png",
-        ],
-      },
+      "images": [
+        {
+          "thumbnail_path": "https://s23655.pcdn.co/wp-content/uploads/2018/08/Mi-Band-3.png"
+        },
+        {
+          "thumbnail_path": "https://s23655.pcdn.co/wp-content/uploads/2018/08/Mi-Band-3.png"
+        }
+      ],
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     },
@@ -21,14 +21,14 @@
       "title": "Apple iPhone XR (64GB)",
       "price": "749.99",
       "price_with_off": "749.99",
-      "images": {
-        [
-          "thumbnail_path": "https://onlineshoppingkenya.com/wp-content/uploads/2018/09/iPhone-XR.png",
-        ],
-        [
-          "thumbnail_path": "https://onlineshoppingkenya.com/wp-content/uploads/2018/09/iPhone-XR.png",
-        ],
-      },
+      "images": [
+        {
+          "thumbnail_path": "https://onlineshoppingkenya.com/wp-content/uploads/2018/09/iPhone-XR.png"
+        },
+        {
+          "thumbnail_path": "https://onlineshoppingkenya.com/wp-content/uploads/2018/09/iPhone-XR.png"
+        }
+      ],
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     },
@@ -37,14 +37,14 @@
       "title": "WOODIES Walnut Wood Sunglasses with Black Polarized Lenses for Men or Women",
       "price": "30",
       "price_with_off": "25",
-      "images": {
-        [
-          "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/51r2CE0vVTL._UX385_.jpg",
-        ],
-        [
-          "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/51r2CE0vVTL._UX385_.jpg",
-        ],
-      },
+      "images": [
+        {
+          "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/51r2CE0vVTL._UX385_.jpg"
+        },
+        {
+          "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/51r2CE0vVTL._UX385_.jpg"
+        }
+      ],
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
      },
@@ -53,14 +53,14 @@
       "title": "Fire 7 Tablet (7inch display, 8 GB, with Special Offers)",
       "price": "69.99",
       "price_with_off": "49.99",
-      "images": {
-        [
-          "thumbnail_path": "https://brain-images-ssl.cdn.dixons.com/7/7/10164177/l_10164177_001.jpg",
-        ],
-        [
-          "thumbnail_path": "https://brain-images-ssl.cdn.dixons.com/7/7/10164177/l_10164177_001.jpg",
-        ],
-      },
+      "images": [
+        {
+          "thumbnail_path": "https://brain-images-ssl.cdn.dixons.com/7/7/10164177/l_10164177_001.jpg"
+        },
+        {
+          "thumbnail_path": "https://brain-images-ssl.cdn.dixons.com/7/7/10164177/l_10164177_001.jpg"
+        }
+      ],
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     },
@@ -69,14 +69,14 @@
       "title": "Clear Shampoo Deep Cleanse 2 In 1 400Ml",
       "price": "29.99",
       "price_with_off": "24.99",
-      "images": {
-        [
-          "thumbnail_path": "https://supermart.ae/5272-large_default/clear-men-shower-fresh-with-green-tea-citrus-essence-shampoo-400ml.jpg",
-        ],
-        [
-          "thumbnail_path": "https://supermart.ae/5272-large_default/clear-men-shower-fresh-with-green-tea-citrus-essence-shampoo-400ml.jpg",
-        ],
-      },
+      "images": [
+        {
+          "thumbnail_path": "https://supermart.ae/5272-large_default/clear-men-shower-fresh-with-green-tea-citrus-essence-shampoo-400ml.jpg"
+        },
+        {
+          "thumbnail_path": "https://supermart.ae/5272-large_default/clear-men-shower-fresh-with-green-tea-citrus-essence-shampoo-400ml.jpg"
+        }
+      ],
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     }
