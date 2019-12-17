@@ -1,0 +1,60 @@
+    var id: Int?
+    var parent_id: Int?
+    var title: String?
+    var desctiption: String?
+    var icon: String?
+    var image: String?
+
+{
+  "data": [
+    {
+      "id": 1,
+      "parent_id": 0,
+      "title": "Blah 1",
+      "desctiption": "Blha blah blah"
+      "icon": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "image": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "created_at": "2019-01-18",
+      "expired_at": "2020-10-25"
+    },
+    {
+      "id": 2,
+      "parent_id": 1,
+      "title": "Blah 2",
+      "desctiption": "Blha blah blah"
+      "icon": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "image": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "created_at": "2019-01-18",
+      "expired_at": "2020-10-25"
+    },
+    {
+      "id": 3,
+      "parent_id": 0,
+      "title": "Blah 3",
+      "desctiption": "Blha blah blah"
+      "icon": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "image": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "created_at": "2019-01-18",
+      "expired_at": "2020-10-25"
+     },
+     {
+      "id": 4,
+      "parent_id": 5,
+      "title": "Blah 4",
+      "desctiption": "Blha blah blah"
+      "icon": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "image": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "created_at": "2019-01-18",
+      "expired_at": "2020-10-25"
+    },
+    {
+      "id": 5,
+      "parent_id": 1,
+      "title": "Blah 5",
+      "desctiption": "Blha blah blah"
+      "icon": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "image": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
+      "expired_at": "2020-10-25"
+    }
+  ]
+}
