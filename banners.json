@@ -5,9 +5,9 @@
       "link": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
       "title": "Blah 1",
       "desctiption": "Blha blah blah",
-      "media": [
+      "media": {
         "path": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng"
-        ],
+      },
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     },
@@ -16,9 +16,9 @@
       "link": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
       "title": "Blah 2",
       "desctiption": "Blha blah blah",
-      "media": [
+      "media": {
         "path": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng"
-        ],
+      },
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     },
@@ -27,9 +27,9 @@
       "link": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
       "title": "Blah 3",
       "desctiption": "Blha blah blah",
-      "media": [
+      "media": {
         "path": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng"
-        ],
+      },
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
      },
@@ -38,9 +38,9 @@
       "link": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
       "title": "Blah 4",
       "desctiption": "Blha blah blah",
-      "media": [
+      "media": {
         "path": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng"
-        ],
+      },
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     },
@@ -49,9 +49,9 @@
       "link": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng",
       "title": "Blah 1",
       "desctiption": "Blha blah blah",
-      "media": [
+      "media": {
         "path": "https://lh3.googleusercontent.com/5EfQBHDb47tchiART6U6yk3yYS9qBYr6VUssB5wHE1AgavqV5E2SSuzyiNkc7UgVng"
-        ],
+      },
       "created_at": "2019-01-18",
       "expired_at": "2020-10-25"
     }
